@@ -11,7 +11,7 @@ Add your own keys below and uncomment the code
 
 import Foundation
 
-
+/*
 struct Constants {
     
     static var API_KEY = ""
@@ -20,4 +20,4 @@ struct Constants {
     static var VIDEOCELL_ID = "VideoCell"
  
 }
-
+*/
